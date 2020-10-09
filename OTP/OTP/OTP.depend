@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589716685 source:c:\users\sanje\desktop\rsa\otp\otp\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
